@@ -20,8 +20,8 @@ commad or just double-click.
 
 ### **Screenshots**
 
-![](/screenshot/login.png)
-![](/screenshot/register.png)
+![](/screenshots/login.png)
+![](/screenshots/register.png)
 
 ### **Licanse**
 
